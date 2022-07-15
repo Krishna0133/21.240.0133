@@ -1,2 +1,3 @@
-# 21.240.0133
-Latihan GIT
+@@ -0,0 +1,2 @@
++ latihan
++ projek latihan GIT
